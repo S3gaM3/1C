@@ -1,0 +1,4 @@
+.answer42-credentials.json
+*.credentials.json
+.venv/
+build/
